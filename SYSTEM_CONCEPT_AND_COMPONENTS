@@ -1,0 +1,28 @@
+Goals:
+- 6 DGF
+- 4 Macrobuttons 
+- Different Profiles (indicated by LED)
+- OLED Display
+- Compatible with Fusion360
+- USB C
+- Premium feeling (surface finishing & weight)
+- Cheap (using parts I already have or parts that are easy/cheap available)
+
+Concept:
+- Spring loaded knob
+- Motion decoding using 4 magnets and 8 hall sensores (in groups of 2). The hall sensores are mountet with an offset to the magnets to detect relative shift in 2 directions
+- Different Profiles for different uses: 1 Sketch made (yellow) / 2 Move mode (blue) / 3 edit mode (green) / 4 default mode (orange)
+- Display the button functions and the profile on the screen
+
+Hardware:
+- Arduino pro Micro
+- SS495A Hall Sensor (8x)
+- WS2812B LED ring (50mm OD, 12 LED)
+. 6*2.5 round Magnet (4x)
+- 0.96' OLED Display
+- M3 Screws
+- M3 heated inserts
+- PLA/Abs
+- 5mm round rubber feet (4x)
+- 5g steel weights
+- Analog Digital Converter MCP3008-I/P
