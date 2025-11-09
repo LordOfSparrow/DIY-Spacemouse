@@ -1,2 +1,11 @@
-09.11.25
+09.11.25 18:20
 I worked on my springing of my DIY spacemouse. Current design uses 1 compression spring in the center and 3 extension springs on the sides. 
+
+09.11.25 23:45
+Modeled a PCB for the sensors and the analog-digital converter
+![PCB design](images/1.png)
+Settled down on the springing mechanism for the first prototype. It uses 3 extension springs, planar oriented, with 120° to each other (springs not modeled).
+![Spring mechanism with outer and inner ring](images/3.png)
+Started modeling the assembly: spring mechanism, alignment ring for the sensors
+![top view](images/4.png)
+![bottom view](images/1.png)
