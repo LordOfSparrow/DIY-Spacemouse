@@ -9,3 +9,7 @@ Settled down on the springing mechanism for the first prototype. It uses 3 exten
 Started modeling the assembly: spring mechanism, alignment ring for the sensors
 ![top view](images/4.png)
 ![bottom view](https://raw.githubusercontent.com/LordOfSparrow/DIY-Spacemouse/refs/heads/main/images/1.png)
+
+10.11.25 23:45
+Updated the PCB (smaller Footprint)
+Updated alignment ring to the new footprint
