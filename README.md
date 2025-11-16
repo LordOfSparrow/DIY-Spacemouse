@@ -20,5 +20,5 @@ The general Idea is:
 Current Status:
 - sensores/elektronics: working circuit for reading 8 analog hall sensores, completed PCB design V1, ordered PCB
 - Spring-loaded knob: working spring setup (still too hard)
-- general design: general concept
+- general design: V1 oh knob done inkl. mechanics for springing, sensors, RGB ring, and display
 - software: working using a web Interface to input 6 DOF
