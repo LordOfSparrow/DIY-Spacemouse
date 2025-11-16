@@ -22,3 +22,8 @@ Current Status:
 - Spring-loaded knob: working spring setup (still too hard)
 - general design: V1 oh knob done inkl. mechanics for springing, sensors, RGB ring, and display
 - software: working using a web Interface to input 6 DOF
+
+Upgrades for V2:
+OD knob: 50mm
+circular screen on knob
+all-in-one PCB with sensors, RGB leds, microcontroller
