@@ -1,7 +1,7 @@
-09.11.25 18:20
+09.11.25 
 I worked on the springing of my DIY spacemouse. The current design uses 1 compression spring in the center and 3 extension springs on the sides. 
 
-09.11.25 23:45
+09.11.25
 Modeled a PCB for the sensors and the analog-digital converter
 ![PCB design](images/2.png)
 Settled down on the springing mechanism for the first prototype. It uses 3 extension springs, planarly oriented, with 120° between them (springs not modeled).
@@ -10,11 +10,11 @@ Started modeling the assembly: spring mechanism, alignment ring for the sensors
 ![top view](images/4.png)
 ![bottom view](https://raw.githubusercontent.com/LordOfSparrow/DIY-Spacemouse/refs/heads/main/images/1.png)
 
-10.11.25 23:45
+10.11.25
 Updated the PCB (smaller Footprint)
 Updated alignment ring to the new footprint
 
-12.11.25, 20:20
+12.11.25
 Tested Circuit
 Finalized PCB design
 Placed an Order for PCB
@@ -22,3 +22,6 @@ Placed an Order for PCB
 16.11.25, 22:10
 Begun CAD for V1; Knob done inkl. screen, sensor PCB, springing mechanics, RGB ring
 OD knob: 57mm, goal to reduce to 50mm in V2
+
+18.11.2025
+finished V1 CAD model, printed everything for test
